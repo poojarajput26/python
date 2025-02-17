@@ -1,0 +1,6 @@
+Lecture - 2 
+
+(1) Core Python Concepts
+(2) Conditional statements(if-else-nested if-else)
+(3) Practical example(8)
+(4) Looping for, while, Nested loop
