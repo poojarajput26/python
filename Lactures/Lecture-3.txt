@@ -1,7 +1,0 @@
-Lecture - 3
-
-(1) Looping
-(2) Generators and interators
-(3) Map(), Reduce(), filter() and Closures and Decorators
-(4) Control statements
-(5) Questions(4)

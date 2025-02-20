@@ -1,7 +1,0 @@
-Module-13 Fundamentals (First-Lacture = 21-02-2025) :-
-
-(1) Introduction of Students
-(2) Career in IT
-(3) Introduction of Python
-(4) Programing style 
-
